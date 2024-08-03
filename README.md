@@ -2,7 +2,7 @@
 
 # ORDO Technical Test - Junianto Ichwan Dwi Wicaksono
 
-### Berikut ini adalah langkah-langkah untuk menjalankan code pada saya
+### Berikut ini adalah langkah-langkah untuk menjalankan code saya
 
 1. Download repo dengan menggunakan perintah
 ```bash
